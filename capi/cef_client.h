@@ -4,7 +4,7 @@
 #pragma once
 
 #include "cef_base.h"
-#include "cef_life_span_handler.h"
+#include "include/capi/cef_life_span_handler_capi.h"
 #include "include/capi/cef_client_capi.h"
 
 extern cef_life_span_handler_t g_life_span_handler;
