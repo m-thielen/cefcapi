@@ -1,6 +1,6 @@
 /******************************************************************************
  *
- * loader.c - win32 CEF loader app for the health forecast bedside app.
+ * loader.c - win32 CEF loader app with its own Windows message loop.
  *
  * Based on https://github.com/cztomczak/cefcapi
  *
